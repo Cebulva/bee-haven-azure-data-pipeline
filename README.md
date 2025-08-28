@@ -1,4 +1,4 @@
-# STREAMLIT SQL LIBRARY APP
+# Bee Haven: An Azure Data Pipeline Project
 
 ---
 
